@@ -1,0 +1,4 @@
+You need to install python packages jason,math,urllib , os, webbrowser
+
+Download latlong2.xls which has a locations of stream guage locations
+and provide a path of the folder.
